@@ -4,12 +4,12 @@ function App() {
 
   const questions = [
     {
-      questionText: 'Who is Prime Minister of India?',
+      questionText: 'Who is Prime Minister of Srilanka?',
       answerOptions: [
-        { answerText: 'Vijay Rupani', isCorrect: false },
-        { answerText: 'Manmohan singh', isCorrect: false },
-        { answerText: 'Narendra Modi', isCorrect: true },
-        { answerText: 'Deep Patel', isCorrect: false },
+        { answerText: 'Mahinda Rajapaksha', isCorrect: false },
+        { answerText: 'Basil Rajapaksha', isCorrect: false },
+        { answerText: 'Gotabaya Rajapaksha', isCorrect: true },
+        { answerText: 'Ranil Wickramasinghe', isCorrect: false },
       ],
     },
     {

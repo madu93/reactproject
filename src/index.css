@@ -21,7 +21,7 @@ body {
 
 .header{
   text-align: center;
-  color: #f71aa2;
+  color:cornflowerblue;
 }
 
 .app {
@@ -72,8 +72,8 @@ body {
 button {
   width: 100%;
   font-size: 16px;
-  color: #ffffff;
-  background: linear-gradient( #ff961d 0%, #f71aa2 100%);
+  color: rgba(0, 0, 0, 0.75);
+   background: linear-gradient( mediumspringgreen 0%, lightgreen 100%);
   border-radius: 15px;
   display: flex;
   padding: 5px;
