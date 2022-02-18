@@ -25,7 +25,7 @@ body {
 }
 
 .app {
-  background: linear-gradient(5deg lightskyblue 0%,darkblue 100%);
+  background: linear-gradient(5deg mediumspringgreen 0%,darkblue 100%);
   width: 95%;
   min-height: 200px;
   height: min-content;
